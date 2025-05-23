@@ -5,6 +5,6 @@ Az adatok a [T-Pot](https://github.com/telekom-security/tpotce) keretrendszer se
 
 A közzétett adatok és kódok kutatási célokra készültek, oktatási vagy nem kereskedelmi célra szabadon felhasználhatók.
 
-**Az adatok hamarosan feltöltésre kerülnek.**
+**A szkriptek hamarosan feltöltésre kerülnek.**
 
 

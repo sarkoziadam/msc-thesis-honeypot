@@ -1,0 +1,24 @@
+﻿"Top 100 values of url.keyword",Count
+"http://89.116.26.229:8080/xmlrpc.php",132
+"http://198.7.118.34:8080/xmlrpc.php",123
+"http://198.7.118.34:8080/wp-login.php",94
+"http://89.116.26.229:8080/wp-login.php",87
+"http://194.238.24.37:8080/wp-login.php",70
+"http://194.238.24.37:8080/xmlrpc.php",56
+"http://89.116.26.229:8080/?author=1",8
+"http://vmi2058246.contaboserver.net:8080/wp-login.php",4
+"http://sensor-1.thesis.sarkoziadam.hu:8080/wp-login.php",3
+"http://vmi2291740.contaboserver.net:8080/wp-login.php",3
+"http://198.7.118.34:8080/?author=1",2
+"http://sensor-1.thesis.sarkoziadam.hu:8080/wp-login.php?action=lostpassword",2
+"http://vmi2058246.contaboserver.net:8080/xmlrpc.php",2
+"http://vmi2291740.contaboserver.net:8080/?author=1",2
+"http://194.238.24.37:8080/?author=1",1
+"http://89.116.26.229:8080/wp-login.php?action=lostpassword",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?action=lostpassword",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?call=test",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?callback=test",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?cb=test",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?jcb=test",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?jsonp=test",1
+"http://vmi2291740.contaboserver.net:8080/wp-login.php?jsonpcallback=test",1
